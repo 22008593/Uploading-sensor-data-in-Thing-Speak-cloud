@@ -110,5 +110,5 @@ Thus the temperature sensor values are updated in the Thing speak using ESP32 co
 
 
 
-Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
+
 
