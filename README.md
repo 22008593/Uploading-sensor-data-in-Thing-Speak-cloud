@@ -1,5 +1,5 @@
-## Name: SELVA KUMAR A
-## Reg.No: 212222110042
+## Name: VISHVAJITH J
+## Reg.No: 212222220058
 # Exp No:3 Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
